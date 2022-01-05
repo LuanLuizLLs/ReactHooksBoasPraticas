@@ -5,5 +5,8 @@ Formulário simples desenvolvido com conceito de hooks, renderização condicion
 - Material UI
 - React
 
-# Imagem do projeto:
+# Funcionalidades:
+Formulário com validações simples baseado em etapas onde todos os dados são armazenados e informados no fim do cadastro.
+
+# Imagens:
 ![image](https://user-images.githubusercontent.com/37859294/148266840-47143b41-0626-48cb-a98e-8e88df2bf116.png)
